@@ -1,0 +1,10 @@
+subj_id,Age,Race,er_status,pr_status,her2_status,Recurrence_CBCS,Recurrence_CBCS_day,pam50_type,ROR_PT
+CBCS-A1-A0SE,37,White,Positive,Positive,Negative,0,4094,LumA,low
+CBCS-B6-A0IA,31,Black,Positive,Positive,Negative,0,3891,LumA,med
+CBCS-B6-A0X0,34,White,Positive,Positive,Negative,0,4945,LumA,low
+CBCS-C8-A26Z,69,Black,Positive,Positive,Negative,1,970,LumA,med
+CBCS-E2-A15J,61,White,Positive,Positive,Negative,0,2140,LumA,med
+CBCS-EW-A2FW,42,Black,Positive,Positive,Negative,0,572,LumB,high
+CBCS-A1-A0SP,60,White,Negative,Negative,Negative,0,784,Basal,high
+CBCS-A2-A04P,46,Black,Negative,Negative,Negative,1,202,Basal,high
+CBCS-A2-A04Q,58,White,Negative,Negative,Negative,0,2485,Basal,med
